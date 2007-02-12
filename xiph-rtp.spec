@@ -1,5 +1,5 @@
 Summary:	Reference implementation for rtp-vorbis and rtp-theora
-Summary(pl.UTF-8):   Wzorcowa implementacja rtp-vorbis i rtp-theora
+Summary(pl.UTF-8):	Wzorcowa implementacja rtp-vorbis i rtp-theora
 Name:		xiph-rtp
 Version:	0.1
 Release:	1
